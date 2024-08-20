@@ -2,6 +2,8 @@
 
 1. [Customer Segmentation using Unsupervised Machine Learning Techniques](Customer_segmentation.ipynb) 
 
+`Project Summary`
+
 * **Customer Segmentation**: Applied K-means, Hierarchical, and DBSCAN clustering techniques to group customers based on similar behaviors and preferences.
 
 * **RFM Modelling**: Used Recency, Frequency, and Monetary (RFM) analysis to evaluate and score customers, aiding in the segmentation process.
@@ -13,6 +15,8 @@
 * **Cluster Validation**: Despite the absence of clearly separated clusters in visual plots, the clusters formed were validated through statistical analysis and algorithmic outputs.
 
 2. [Market Basket Analysis and Association Rule Mining with FPGrowth in PySpark](Market_Basket_Analysis_and_Association_Rule_Mining_with_FPGrowth_PySpark.ipynb)
+
+`Project Summary`
 
 * **Understanding of FPGrowth Algorithm**: Learn how to apply the FPGrowth algorithm for mining frequent itemsets and generating association rules.
 
