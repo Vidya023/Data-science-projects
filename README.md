@@ -1,6 +1,6 @@
 # Data-science-projects
 
-1. Customer Segmentation using Unsupervised Machine Learning Techniques
+1. [Customer Segmentation using Unsupervised Machine Learning Techniques](Customer_segmentation.ipynb) 
 
 * `Objective`: Grouping customers with similar behaviour into segments and understand their preferences. 
 * `General approach`: Binning based Segmentation, Quantile basec Segmentation
