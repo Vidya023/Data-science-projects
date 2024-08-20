@@ -6,7 +6,9 @@
 * `General approach`: Binning based Segmentation, Quantile basec Segmentation
 * `ML Algorithms used`: K-means Clustering, Hierarchical Clustering, DBSCAN Clustering
 
-2. [Sales market basket analysis using pyspark and Apriori Algorithm](Market_basket_analysis_apriori_pyspark.ipynb)
+2. [Market Basket Analysis and Association Rule Mining with FPGrowth in PySpark](Market_Basket_Analysis_and_Association_Rule_Mining_with_FPGrowth_PySpark.ipynb)
+
+* `Objectives`: Understanding of FPGrowth Algorithm, PySpark Data Handling, Metrics Interpretation, Results Aggregation and Analysis 
 
 
 3. [Predictive Modeling of Shipment Pricing Using Machine Learning Regression Algorithms](Predictive_Modeling_of_Shipment_Pricing_using_ML_Regression.ipynb)
