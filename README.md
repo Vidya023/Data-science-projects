@@ -22,7 +22,7 @@
 
 * **Data Preparation and Transformation**: Gain experience in transforming and preparing data for analysis, including indexing categorical variables and aggregating transaction data.
 
-* **Country-Specific Analysis**: Learn how to perform association rule mining for different subsets of data (in this case, by country) and compare results across these subsets.
+* **Feature Analysis**: Learn how to perform association rule mining for different subsets of data (in this case, by country) and compare results across these subsets.
 
 * **Metrics Interpretation**: Understand key metrics like support, confidence, and lift, and how they are used to evaluate the strength of association rules.
 
